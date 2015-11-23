@@ -1,0 +1,29 @@
+- description: discount on the bill
+  amounts: [1 111, 2 222, 3 333]
+  prices: [10.99, 11.01, 12.75]
+  discount: 10
+  discount_sum: 7 916.99
+  total: 71 252.87
+  id: 1382218218
+  fns_code: 2504
+  datetime: 15.04.2015 17:02
+
+- description: discount on one
+  amounts: [123, 456]
+  prices: [98.79, 70.01]
+  discount: 7.78
+  discount_sum: 945.36
+  total: 43 130.37
+  id: 803447679
+  fns_code: 2504
+  datetime: 18.03.2015 16:40
+
+- description: discount all
+  amounts: [379]
+  prices: [33]
+  discount: 100
+  discount_sum: 12 507.00
+  total: 0
+  id: 2618646387
+  fns_code: 2504
+  datetime: 18.03.2015 16:43
